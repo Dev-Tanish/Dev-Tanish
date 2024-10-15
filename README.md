@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on Back-end Service of web development like controllers , API handling , Ai Integration , Passwords and authontication etc . I’m currently learning Next.js for backed service 
+Welcome to my page!
+I'm Tanish, Fullstack developer from  Madhya pradesh, India.
 
 
 ## 🌐 Socials:
