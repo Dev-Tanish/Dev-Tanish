@@ -1,6 +1,6 @@
 # 💫 About Me:
-Welcome to my page!
-[!I'm Tanish, Fullstack developer from  Madhya pradesh, India.]
+Welcome to my page.
+I'm Tanish, Fullstack developer from  Madhya pradesh, India.
 
 
 ## 🌐 Socials:
